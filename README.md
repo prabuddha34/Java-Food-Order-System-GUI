@@ -28,11 +28,9 @@ Each button displays its respective item list and can be extended to include qua
 
 - **Language:** Java
 - **Framework:** Java Swing (GUI)
+
 - **IDE Used:** (You can mention here: IntelliJ, VS Code, Eclipse, etc.)
 - **Platform:** Desktop
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/food-ordering-system.git
+## Screenshot
+ ![image](https://github.com/user-attachments/assets/39250fe4-9755-4d23-adae-5e7bce473679)
