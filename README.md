@@ -29,7 +29,7 @@ Each button displays its respective item list and can be extended to include qua
 - **Language:** Java
 - **Framework:** Java Swing (GUI)
 
-- **IDE Used:** (You can mention here: IntelliJ, VS Code, Eclipse, etc.)
+- **IDE Used:**  IntelliJ
 - **Platform:** Desktop
 
 ## Screenshot
